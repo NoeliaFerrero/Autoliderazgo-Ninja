@@ -1,8 +1,11 @@
 # Ninja
-Contenido laboral, notas mentales, automotivación, etc
+
+<p align="center">
+  <img src="https://github.com/NoeliaFerrero/Ninja/blob/main/cientifico_datos.png">
+</p>
 
 
-Una vez leí en uno de los tantos articulos que consumo a diaro, que el Científico de Datos es como un "unicornio", no por que tenga un cuerno en la cabeza (Jejeje), sino por que tiene que conocer, entender e implementar todo el proceso de datos que implica realizar Ciencia de datos.
+Una vez leí en uno de los tantos articulos que consumo a diario, que el Científico de Datos es como un "unicornio", no por que tenga un cuerno en la cabeza (Jejeje), sino por que tiene que conocer, entender e implementar todo el proceso de datos que implica realizar Ciencia de datos.
 
 Es un rol que tiene que hacer las veces de:
 -"Ingeniero de Datos": Ingesta y limpieza de los datos.
