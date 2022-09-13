@@ -12,4 +12,4 @@
 
 Así que lo que podemos aprender de este macho alfa es que **"ser un líder no es siempre estar al frente. Es preocuparse por el bien de tu equipo".**
 
-![lobos](https://raw.githubusercontent.com/NoeliaFerrero/My-DS-journey/master/Autoliderazgo/manada_lobos.jpg)
+![lobos](https://raw.githubusercontent.com/NoeliaFerrero/Autoliderazgo-Ninja/master/Autoliderazgo/manada_lobos.jpg)
